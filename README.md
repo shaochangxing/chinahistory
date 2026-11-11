@@ -2,7 +2,7 @@
 
 一个纯离线的中国历史竖向时间轴 App：从先秦到 1949 年，按时间顺序自上而下浏览，右侧提供朝代/时期快速定位轴。
 
-![界面](docs/screenshots/01-app.jpg)
+<img src="docs/screenshots/01-app.jpg" width="300">
 
 ## 数据规模
 
